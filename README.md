@@ -23,6 +23,22 @@ In the next steps, we'll look at how you can run this app inside a Docker contai
 
 Creating a Dockerfile
 
+![image](https://user-images.githubusercontent.com/56083714/66062769-aab2a900-e55f-11e9-8289-1231585cf47f.png)
+
+.dockerignore file
+
+Create a .dockerignore file in the same directory as your Dockerfile with following content:
+
+node_modules
+npm-debug.log
+
+This will prevent your local modules and debug logs from being copied onto your Docker image and possibly overwriting modules installed within your image.
+
+now pulling the mongo db image and building node.js docker file using docker compose file.
+
+
+
+
 
 
 
