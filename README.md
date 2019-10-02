@@ -34,7 +34,14 @@ npm-debug.log
 
 This will prevent your local modules and debug logs from being copied onto your Docker image and possibly overwriting modules installed within your image.
 
-install docker and docker compose file.
+install docker and docker compose using below commands.
+
+sudo apt-get update -y && sudo apt-get install docker.io -y
+
+curl -L https://github.com/docker/compose/releases/download/1.22.0/docker-compose-`uname -s`-`uname -m` -o /usr/local/bin/docker-compose
+chmod +x /usr/local/bin/docker-compose
+
+docker-compose version
 
 now pulling the mongo db image and building node.js docker file using docker compose file using below command.
 
