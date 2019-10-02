@@ -36,6 +36,8 @@ This will prevent your local modules and debug logs from being copied onto your 
 
 now pulling the mongo db image and building node.js docker file using docker compose file.
 
+docker-compose up -d
+
 
 ![image](https://user-images.githubusercontent.com/56083714/66063333-c5395200-e560-11e9-8911-98e5af12ffe6.png)
 
