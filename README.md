@@ -41,13 +41,18 @@ docker-compose up -d
 
 ![image](https://user-images.githubusercontent.com/56083714/66063333-c5395200-e560-11e9-8911-98e5af12ffe6.png)
 
-After running docker-compose up -d command then we can see containers are running.
+After running docker-compose up -d command then we can see containers are running like below.
 
+![image](https://user-images.githubusercontent.com/56083714/66064229-a2a83880-e562-11e9-80ce-0f10cea19ad7.png)
 
 
 and then folder structure should be like below.
 
 ![image](https://user-images.githubusercontent.com/56083714/66063586-4d1f5c00-e561-11e9-9b23-2cea9ddf4f4a.png)
+
+now mongo DB and application both containers are running and lets connect to both containers.
+
+
 
 
 
