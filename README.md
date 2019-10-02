@@ -41,6 +41,10 @@ docker-compose up -d
 
 ![image](https://user-images.githubusercontent.com/56083714/66063333-c5395200-e560-11e9-8911-98e5af12ffe6.png)
 
+After running docker-compose up -d command then we can see containers are running.
+
+
+
 and then folder structure should be like below.
 
 ![image](https://user-images.githubusercontent.com/56083714/66063586-4d1f5c00-e561-11e9-9b23-2cea9ddf4f4a.png)
