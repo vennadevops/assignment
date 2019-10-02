@@ -52,6 +52,17 @@ and then folder structure should be like below.
 
 now mongo DB and application both containers are running and lets connect to both containers.
 
+![image](https://user-images.githubusercontent.com/56083714/66064521-2bbf6f80-e563-11e9-8afc-286952acd709.png)
+
+![image](https://user-images.githubusercontent.com/56083714/66064653-72ad6500-e563-11e9-94a3-5e740328d192.png)
+
+now both containers can talk each other.
+
+![image](https://user-images.githubusercontent.com/56083714/66065074-480fdc00-e564-11e9-8115-78e7353c96ed.png)
+
+
+
+
 
 
 
