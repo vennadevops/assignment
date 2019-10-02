@@ -41,6 +41,8 @@ now pulling the mongo db image and building node.js docker file using docker com
 
 and then folder structure should be like below.
 
+![image](https://user-images.githubusercontent.com/56083714/66063586-4d1f5c00-e561-11e9-9b23-2cea9ddf4f4a.png)
+
 
 
 
